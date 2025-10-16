@@ -1,0 +1,1 @@
+// To create this TR3F project manually: \n// npm create vite@latest <project-name> -- --template react-ts\n// cd <project-name>\n// npm install\n// npm install three @react-three/fiber @react-three/drei zustand

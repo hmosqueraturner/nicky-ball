@@ -1,0 +1,6 @@
+{
+  "name": "{{projectName}}-expo",
+  "private": true,
+  "scripts": { "start": "expo start" },
+  "dependencies": { "expo": "~48.0.0", "react-native": "0.72.0" }
+}
